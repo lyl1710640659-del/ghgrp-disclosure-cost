@@ -96,7 +96,3 @@ Python 3 with `pandas`, `numpy`, `scipy`, `statsmodels`, `matplotlib` and
 [`rddensity`](https://rdpackages.github.io/rddensity/). Notebooks are generated from
 `analysis/src/` with [jupytext](https://jupytext.readthedocs.io); scripts run from
 `analysis/`, e.g. `python3 11_bunching_windows.py`.
-
-## Contact
-
-Yiling (Elaine) Long · yiling.long@u.northwestern.edu
