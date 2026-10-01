@@ -1,0 +1,11 @@
+sample,spec,r2,n
+all TB with parent,nothing (mean only),-0.0,5299
+all TB with parent,NAICS3,0.0555,5299
+all TB with parent,NAICS6,0.1969,5299
+all TB with parent,parent scale (leave-one-out),0.0564,5299
+all TB with parent,NAICS6 + parent scale (LOO),0.2273,5299
+public TB,nothing (mean only),0.0,1764
+public TB,NAICS6,0.2635,1764
+public TB,firm size only (assets),0.001,1764
+public TB,NAICS6 + assets,0.2671,1764
+public TB,NAICS6 + assets + parent scale (LOO),0.3188,1764

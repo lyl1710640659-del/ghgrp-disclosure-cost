@@ -1,0 +1,6 @@
+sample,n_grid,b_hat,excess_hat,b_lo,b_hi,excess_lo,excess_hi,lr_at_zero,rejects_zero,grid_exhausted_above,nll_full_model,nll_M1_min,cost_of_M1
+"CA + WA, PLACEBO notch 40,000",12,0.08,0.0011,0.0108,0.1888,0.00015,0.0026,5.006,True,False,3636.475,3635.618,-1.715
+"CA + WA, notch 25,000",15,0.12,0.00172,0.0,0.2361,0.0,0.00362,3.598,False,False,3736.407,3736.314,-0.186
+"CA only, notch 25,000",14,0.15,0.00223,0.0482,0.3071,0.00065,0.00505,6.73,True,False,3462.276,3460.965,-2.622
+"WA 2012-2022, notch 25,000",14,0.0,0.0,0.0,0.1289,0.0,0.00188,0.0,False,False,-199.341,-199.352,-0.023
+federal always-covered (placebo),11,0.0,0.00056,0.0,0.1075,0.00056,0.00149,0.0,False,False,5207.299,5207.199,-0.201

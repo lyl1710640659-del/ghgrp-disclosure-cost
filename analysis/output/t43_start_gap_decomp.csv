@@ -1,0 +1,8 @@
+quantity,value
+"raw start-point gap, TB - AC",0.0294
+pooled within-industry gap (4 overlapping cells),0.0225
+share of the gap removed by holding industry fixed,0.235
+raw gap_above difference,0.0557
+pooled within-industry gap_above,0.028
+"variance of start between NAICS3, within TB",0.0203
+"variance of start between NAICS6, within TB",0.0818

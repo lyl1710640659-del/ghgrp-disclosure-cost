@@ -1,0 +1,5 @@
+sample,regime,n_15_35k,bin_24k,bin_25k,step_24_to_25,excess,lo,hi,sig
+CA 2011-2012,"cap-and-trade COVERAGE-DETERMINATION years (17 CCR 95812(b), data years 2009-2012); MRR verification at 25,000 already in force -- NOT a clean pre-period, see 28_ca_2011_2012.py",274,14,10,-0.286,0.796,0.08,1.818,True
+CA 2013-2023,cap-and-trade binding,1937,107,62,-0.421,1.037,0.448,1.892,True
+WA 2012-2022,no cap-and-trade  <-- the clean sample,482,12,18,0.5,-0.102,-0.658,0.609,False
+WA 2023-2024,CCA in force,76,2,0,-1.0,,,,

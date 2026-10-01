@@ -1,0 +1,5 @@
+group,n_early,mean_early,n_late,mean_late,slowdown,se,t,p,n_fac
+anomalous: entry < 25k,282,0.2521,291,-0.0099,0.262,0.0949,2.76,0.0057,162
+crept over: entry 25-30k,1222,-0.0373,1643,-0.0387,0.0014,0.0244,0.06,0.9535,647
+landed high: entry >= 40k,1249,-0.0493,1894,-0.0439,-0.0053,0.0239,-0.22,0.8229,654
+"TB-entry, genuine crossings only",3314,-0.0512,4660,-0.0431,-0.0081,0.0147,-0.55,0.5843,1750

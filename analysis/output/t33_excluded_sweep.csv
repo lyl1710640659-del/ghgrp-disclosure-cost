@@ -1,0 +1,361 @@
+sample,cutoff,kind,excl_shape,excl_width,fit_lo,fit_hi,at_ceiling,n_fit,n_excl,n_fit_bins,n_below_fit,n_excl_bins,excess,lo,hi,sig
+CA+WA,25000,REAL,asymmetric (below only),1000,11000,45000,False,4696,135,33,13,1,0.063,-0.189,0.336,False
+CA+WA,25000,REAL,symmetric,1000,11000,45000,False,4696,135,32,13,2,0.038,-0.204,0.297,False
+CA+WA,25000,REAL,asymmetric (below only),2000,11000,45000,False,4696,303,32,12,2,0.349,0.021,0.729,True
+CA+WA,25000,REAL,symmetric,2000,11000,45000,False,4696,303,30,12,4,0.274,0.027,0.671,True
+CA+WA,25000,REAL,asymmetric (below only),3000,11000,45000,False,4696,491,31,11,3,0.782,0.421,1.25,True
+CA+WA,25000,REAL,symmetric,3000,11000,45000,False,4696,491,28,11,6,0.713,0.338,1.147,True
+CA+WA,25000,REAL,asymmetric (below only),4000,11000,45000,False,4696,649,30,10,4,0.793,0.361,1.238,True
+CA+WA,25000,REAL,symmetric,4000,11000,45000,False,4696,649,26,10,8,0.742,0.252,1.295,True
+CA+WA,25000,REAL,asymmetric (below only),5000,11000,45000,False,4696,825,29,9,5,0.863,0.381,1.411,True
+CA+WA,25000,REAL,symmetric,5000,11000,45000,False,4696,825,24,9,10,0.902,0.346,1.591,True
+CA+WA,25000,REAL,asymmetric (below only),6000,11000,45000,False,4696,986,28,8,6,0.507,0.004,1.044,True
+CA+WA,25000,REAL,symmetric,6000,11000,45000,False,4696,986,22,8,12,0.442,-0.148,1.078,False
+CA+WA,25000,REAL,asymmetric (below only),7000,11000,45000,False,4696,1175,27,7,7,0.235,-0.323,0.793,False
+CA+WA,25000,REAL,symmetric,7000,11000,45000,False,4696,1175,20,7,14,-0.184,-0.811,0.4,False
+CA+WA,25000,REAL,asymmetric (below only),8000,11000,45000,False,4696,1411,26,6,8,0.443,-0.116,1.152,False
+CA+WA,25000,REAL,symmetric,8000,11000,45000,False,4696,1411,18,6,16,-0.509,-1.117,0.26,False
+CA+WA,25000,REAL,asymmetric (below only),9000,11000,45000,False,4696,1655,25,5,9,0.526,-0.228,1.358,False
+CA+WA,25000,REAL,symmetric,9000,11000,45000,False,4696,1655,16,5,18,-1.283,-1.783,-0.669,True
+CA+WA,25000,REAL,asymmetric (below only),10000,11000,45000,True,4696,1909,24,4,10,0.323,-0.666,1.342,False
+CA+WA,25000,REAL,symmetric,10000,11000,45000,True,4696,1909,14,4,20,-2.106,-2.652,-1.469,True
+CA+WA,28000,placebo,asymmetric (below only),1000,14000,48000,False,3921,104,33,13,1,0.003,-0.285,0.388,False
+CA+WA,28000,placebo,symmetric,1000,14000,48000,False,3921,104,32,13,2,0.002,-0.279,0.345,False
+CA+WA,28000,placebo,asymmetric (below only),2000,14000,48000,False,3921,204,32,12,2,-0.115,-0.49,0.371,False
+CA+WA,28000,placebo,symmetric,2000,14000,48000,False,3921,204,30,12,4,-0.121,-0.478,0.301,False
+CA+WA,28000,placebo,asymmetric (below only),3000,14000,48000,False,3921,294,31,11,3,-0.451,-0.916,0.013,False
+CA+WA,28000,placebo,symmetric,3000,14000,48000,False,3921,294,28,11,6,-0.515,-1.0,-0.051,True
+CA+WA,28000,placebo,asymmetric (below only),4000,14000,48000,False,3921,429,30,10,4,-0.393,-0.896,0.269,False
+CA+WA,28000,placebo,symmetric,4000,14000,48000,False,3921,429,26,10,8,-0.608,-1.115,-0.141,True
+CA+WA,28000,placebo,asymmetric (below only),5000,14000,48000,False,3921,597,29,9,5,0.012,-0.627,0.745,False
+CA+WA,28000,placebo,symmetric,5000,14000,48000,False,3921,597,24,9,10,-0.477,-0.994,0.138,False
+CA+WA,28000,placebo,asymmetric (below only),6000,14000,48000,False,3921,785,28,8,6,0.759,0.136,1.451,True
+CA+WA,28000,placebo,symmetric,6000,14000,48000,False,3921,785,22,8,12,-0.037,-0.527,0.679,False
+CA+WA,28000,placebo,asymmetric (below only),7000,14000,48000,False,3921,943,27,7,7,0.922,0.187,1.784,True
+CA+WA,28000,placebo,symmetric,7000,14000,48000,False,3921,943,20,7,14,0.096,-0.525,0.872,False
+CA+WA,28000,placebo,asymmetric (below only),8000,14000,48000,False,3921,1119,26,6,8,1.337,0.387,2.39,True
+CA+WA,28000,placebo,symmetric,8000,14000,48000,False,3921,1119,18,6,16,0.946,-0.079,1.994,False
+CA+WA,28000,placebo,asymmetric (below only),9000,14000,48000,False,3921,1280,25,5,9,0.802,-0.057,1.833,False
+CA+WA,28000,placebo,symmetric,9000,14000,48000,False,3921,1280,16,5,18,0.786,-0.269,1.906,False
+CA+WA,28000,placebo,asymmetric (below only),10000,14000,48000,True,3921,1469,24,4,10,0.34,-0.638,1.644,False
+CA+WA,28000,placebo,symmetric,10000,14000,48000,True,3921,1469,14,4,20,-0.483,-1.385,0.837,False
+CA+WA,30000,placebo,asymmetric (below only),1000,16000,50000,False,3464,93,33,13,1,0.002,-0.289,0.428,False
+CA+WA,30000,placebo,symmetric,1000,16000,50000,False,3464,93,32,13,2,-0.004,-0.308,0.356,False
+CA+WA,30000,placebo,asymmetric (below only),2000,16000,50000,False,3464,190,32,12,2,-0.014,-0.455,0.468,False
+CA+WA,30000,placebo,symmetric,2000,16000,50000,False,3464,190,30,12,4,-0.074,-0.515,0.453,False
+CA+WA,30000,placebo,asymmetric (below only),3000,16000,50000,False,3464,294,31,11,3,-0.022,-0.56,0.675,False
+CA+WA,30000,placebo,symmetric,3000,16000,50000,False,3464,294,28,11,6,-0.22,-0.759,0.346,False
+CA+WA,30000,placebo,asymmetric (below only),4000,16000,50000,False,3464,394,30,10,4,-0.192,-0.816,0.603,False
+CA+WA,30000,placebo,symmetric,4000,16000,50000,False,3464,394,26,10,8,-0.594,-1.16,0.07,False
+CA+WA,30000,placebo,asymmetric (below only),5000,16000,50000,False,3464,484,29,9,5,-0.668,-1.233,0.007,False
+CA+WA,30000,placebo,symmetric,5000,16000,50000,False,3464,484,24,9,10,-1.191,-1.661,-0.627,True
+CA+WA,30000,placebo,asymmetric (below only),6000,16000,50000,False,3464,619,28,8,6,-0.65,-1.313,0.129,False
+CA+WA,30000,placebo,symmetric,6000,16000,50000,False,3464,619,22,8,12,-1.255,-1.803,-0.528,True
+CA+WA,30000,placebo,asymmetric (below only),7000,16000,50000,False,3464,787,27,7,7,-0.129,-0.954,0.901,False
+CA+WA,30000,placebo,symmetric,7000,16000,50000,False,3464,787,20,7,14,-0.614,-1.473,0.419,False
+CA+WA,30000,placebo,asymmetric (below only),8000,16000,50000,False,3464,975,26,6,8,1.125,0.218,2.282,True
+CA+WA,30000,placebo,symmetric,8000,16000,50000,False,3464,975,18,6,16,0.773,-0.184,2.179,False
+CA+WA,30000,placebo,asymmetric (below only),9000,16000,50000,False,3464,1133,25,5,9,1.626,0.326,3.081,True
+CA+WA,30000,placebo,symmetric,9000,16000,50000,False,3464,1133,16,5,18,0.983,-0.306,2.762,False
+CA+WA,30000,placebo,asymmetric (below only),10000,16000,50000,True,3464,1309,24,4,10,3.132,1.469,5.384,True
+CA+WA,30000,placebo,symmetric,10000,16000,50000,True,3464,1309,14,4,20,5.254,2.586,8.15,True
+CA+WA,35000,placebo,asymmetric (below only),1000,21000,55000,False,2642,96,33,13,1,0.321,-0.031,0.699,False
+CA+WA,35000,placebo,symmetric,1000,21000,55000,False,2642,96,32,13,2,0.376,-0.03,0.759,False
+CA+WA,35000,placebo,asymmetric (below only),2000,21000,55000,False,2642,164,32,12,2,0.211,-0.359,0.774,False
+CA+WA,35000,placebo,symmetric,2000,21000,55000,False,2642,164,30,12,4,0.416,-0.086,0.944,False
+CA+WA,35000,placebo,asymmetric (below only),3000,21000,55000,False,2642,225,31,11,3,-0.077,-0.702,0.551,False
+CA+WA,35000,placebo,symmetric,3000,21000,55000,False,2642,225,28,11,6,0.172,-0.338,0.814,False
+CA+WA,35000,placebo,asymmetric (below only),4000,21000,55000,False,2642,293,30,10,4,-0.332,-0.994,0.374,False
+CA+WA,35000,placebo,symmetric,4000,21000,55000,False,2642,293,26,10,8,-0.072,-0.817,0.729,False
+CA+WA,35000,placebo,asymmetric (below only),5000,21000,55000,False,2642,376,29,9,5,-0.406,-1.177,0.398,False
+CA+WA,35000,placebo,symmetric,5000,21000,55000,False,2642,376,24,9,10,0.181,-0.742,1.331,False
+CA+WA,35000,placebo,asymmetric (below only),6000,21000,55000,False,2642,469,28,8,6,-0.364,-1.195,0.695,False
+CA+WA,35000,placebo,symmetric,6000,21000,55000,False,2642,469,22,8,12,0.648,-0.392,2.085,False
+CA+WA,35000,placebo,asymmetric (below only),7000,21000,55000,False,2642,566,27,7,7,-0.341,-1.357,0.884,False
+CA+WA,35000,placebo,symmetric,7000,21000,55000,False,2642,566,20,7,14,0.648,-0.703,2.746,False
+CA+WA,35000,placebo,asymmetric (below only),8000,21000,55000,False,2642,670,26,6,8,-0.285,-1.413,1.004,False
+CA+WA,35000,placebo,symmetric,8000,21000,55000,False,2642,670,18,6,16,1.018,-0.983,4.521,False
+CA+WA,35000,placebo,asymmetric (below only),9000,21000,55000,False,2642,770,25,5,9,-0.796,-2.278,1.094,False
+CA+WA,35000,placebo,symmetric,9000,21000,55000,False,2642,770,16,5,18,0.325,-1.727,3.682,False
+CA+WA,35000,placebo,asymmetric (below only),10000,21000,55000,True,2642,860,24,4,10,-2.751,-3.616,-1.847,True
+CA+WA,35000,placebo,symmetric,10000,21000,55000,True,2642,860,14,4,20,-3.09,-4.068,-1.707,True
+CA+WA,40000,placebo,asymmetric (below only),1000,26000,60000,False,2092,79,33,13,1,0.174,-0.104,0.519,False
+CA+WA,40000,placebo,symmetric,1000,26000,60000,False,2092,79,32,13,2,0.173,-0.077,0.53,False
+CA+WA,40000,placebo,asymmetric (below only),2000,26000,60000,False,2092,141,32,12,2,0.047,-0.33,0.509,False
+CA+WA,40000,placebo,symmetric,2000,26000,60000,False,2092,141,30,12,4,-0.03,-0.347,0.338,False
+CA+WA,40000,placebo,asymmetric (below only),3000,26000,60000,False,2092,204,31,11,3,-0.116,-0.592,0.384,False
+CA+WA,40000,placebo,symmetric,3000,26000,60000,False,2092,204,28,11,6,-0.309,-0.702,0.106,False
+CA+WA,40000,placebo,asymmetric (below only),4000,26000,60000,False,2092,295,30,10,4,0.254,-0.344,0.989,False
+CA+WA,40000,placebo,symmetric,4000,26000,60000,False,2092,295,26,10,8,-0.103,-0.579,0.419,False
+CA+WA,40000,placebo,asymmetric (below only),5000,26000,60000,False,2092,392,29,9,5,0.89,0.18,1.661,True
+CA+WA,40000,placebo,symmetric,5000,26000,60000,False,2092,392,24,9,10,0.447,-0.172,1.115,False
+CA+WA,40000,placebo,asymmetric (below only),6000,26000,60000,False,2092,488,28,8,6,1.783,1.047,2.499,True
+CA+WA,40000,placebo,symmetric,6000,26000,60000,False,2092,488,22,8,12,1.806,0.978,2.742,True
+CA+WA,40000,placebo,asymmetric (below only),7000,26000,60000,False,2092,556,27,7,7,1.781,0.954,2.712,True
+CA+WA,40000,placebo,symmetric,7000,26000,60000,False,2092,556,20,7,14,2.113,1.105,3.382,True
+CA+WA,40000,placebo,asymmetric (below only),8000,26000,60000,False,2092,617,26,6,8,1.205,0.411,2.161,True
+CA+WA,40000,placebo,symmetric,8000,26000,60000,False,2092,617,18,6,16,1.292,0.25,2.71,True
+CA+WA,40000,placebo,asymmetric (below only),9000,26000,60000,False,2092,685,25,5,9,0.513,-0.357,1.565,False
+CA+WA,40000,placebo,symmetric,9000,26000,60000,False,2092,685,16,5,18,-0.225,-1.179,0.824,False
+CA+WA,40000,placebo,asymmetric (below only),10000,26000,60000,True,2092,768,24,4,10,0.283,-0.856,1.672,False
+CA+WA,40000,placebo,symmetric,10000,26000,60000,True,2092,768,14,4,20,0.181,-0.731,1.41,False
+CA,25000,REAL,asymmetric (below only),1000,11000,45000,False,3685,121,33,13,1,0.184,-0.117,0.537,False
+CA,25000,REAL,symmetric,1000,11000,45000,False,3685,121,32,13,2,0.155,-0.214,0.454,False
+CA,25000,REAL,asymmetric (below only),2000,11000,45000,False,3685,261,32,12,2,0.537,0.112,0.984,True
+CA,25000,REAL,symmetric,2000,11000,45000,False,3685,261,30,12,4,0.471,0.121,0.923,True
+CA,25000,REAL,asymmetric (below only),3000,11000,45000,False,3685,416,31,11,3,1.059,0.628,1.544,True
+CA,25000,REAL,symmetric,3000,11000,45000,False,3685,416,28,11,6,1.031,0.589,1.599,True
+CA,25000,REAL,asymmetric (below only),4000,11000,45000,False,3685,541,30,10,4,1.084,0.45,1.695,True
+CA,25000,REAL,symmetric,4000,11000,45000,False,3685,541,26,10,8,1.072,0.552,1.889,True
+CA,25000,REAL,asymmetric (below only),5000,11000,45000,False,3685,682,29,9,5,1.219,0.7,1.845,True
+CA,25000,REAL,symmetric,5000,11000,45000,False,3685,682,24,9,10,1.362,0.65,2.315,True
+CA,25000,REAL,asymmetric (below only),6000,11000,45000,False,3685,794,28,8,6,0.615,0.034,1.223,True
+CA,25000,REAL,symmetric,6000,11000,45000,False,3685,794,22,8,12,0.584,-0.189,1.408,False
+CA,25000,REAL,asymmetric (below only),7000,11000,45000,False,3685,945,27,7,7,0.403,-0.175,1.131,False
+CA,25000,REAL,symmetric,7000,11000,45000,False,3685,945,20,7,14,0.001,-0.752,0.859,False
+CA,25000,REAL,asymmetric (below only),8000,11000,45000,False,3685,1140,26,6,8,0.931,0.187,1.742,True
+CA,25000,REAL,symmetric,8000,11000,45000,False,3685,1140,18,6,16,0.119,-0.671,1.144,False
+CA,25000,REAL,asymmetric (below only),9000,11000,45000,False,3685,1336,25,5,9,1.421,0.509,2.426,True
+CA,25000,REAL,symmetric,9000,11000,45000,False,3685,1336,16,5,18,-0.085,-1.02,0.963,False
+CA,25000,REAL,asymmetric (below only),10000,11000,45000,True,3685,1523,24,4,10,1.002,-0.038,2.311,False
+CA,25000,REAL,symmetric,10000,11000,45000,True,3685,1523,14,4,20,-0.865,-1.912,0.519,False
+CA,28000,placebo,asymmetric (below only),1000,14000,48000,False,3080,85,33,13,1,-0.001,-0.357,0.439,False
+CA,28000,placebo,symmetric,1000,14000,48000,False,3080,85,32,13,2,-0.009,-0.458,0.383,False
+CA,28000,placebo,asymmetric (below only),2000,14000,48000,False,3080,171,32,12,2,-0.069,-0.574,0.48,False
+CA,28000,placebo,symmetric,2000,14000,48000,False,3080,171,30,12,4,-0.09,-0.669,0.49,False
+CA,28000,placebo,asymmetric (below only),3000,14000,48000,False,3080,243,31,11,3,-0.433,-0.943,0.126,False
+CA,28000,placebo,symmetric,3000,14000,48000,False,3080,243,28,11,6,-0.52,-1.13,-0.017,True
+CA,28000,placebo,asymmetric (below only),4000,14000,48000,False,3080,364,30,10,4,-0.218,-0.89,0.486,False
+CA,28000,placebo,symmetric,4000,14000,48000,False,3080,364,26,10,8,-0.472,-1.027,0.275,False
+CA,28000,placebo,asymmetric (below only),5000,14000,48000,False,3080,504,29,9,5,0.264,-0.464,1.118,False
+CA,28000,placebo,symmetric,5000,14000,48000,False,3080,504,24,9,10,-0.271,-1.034,0.485,False
+CA,28000,placebo,asymmetric (below only),6000,14000,48000,False,3080,659,28,8,6,1.127,0.314,2.186,True
+CA,28000,placebo,symmetric,6000,14000,48000,False,3080,659,22,8,12,0.296,-0.493,1.054,False
+CA,28000,placebo,asymmetric (below only),7000,14000,48000,False,3080,784,27,7,7,1.281,0.363,2.434,True
+CA,28000,placebo,symmetric,7000,14000,48000,False,3080,784,20,7,14,0.491,-0.43,1.882,False
+CA,28000,placebo,asymmetric (below only),8000,14000,48000,False,3080,925,26,6,8,1.789,0.602,3.261,True
+CA,28000,placebo,symmetric,8000,14000,48000,False,3080,925,18,6,16,1.529,-0.139,3.7,False
+CA,28000,placebo,asymmetric (below only),9000,14000,48000,False,3080,1037,25,5,9,0.549,-0.504,2.158,False
+CA,28000,placebo,symmetric,9000,14000,48000,False,3080,1037,16,5,18,-0.091,-1.323,1.337,False
+CA,28000,placebo,asymmetric (below only),10000,14000,48000,True,3080,1188,24,4,10,-0.001,-1.165,1.188,False
+CA,28000,placebo,symmetric,10000,14000,48000,True,3080,1188,14,4,20,-1.65,-2.619,-0.167,True
+CA,30000,placebo,asymmetric (below only),1000,16000,50000,False,2732,75,33,13,1,0.005,-0.541,0.442,False
+CA,30000,placebo,symmetric,1000,16000,50000,False,2732,75,32,13,2,0.0,-0.342,0.439,False
+CA,30000,placebo,asymmetric (below only),2000,16000,50000,False,2732,149,32,12,2,-0.08,-0.619,0.47,False
+CA,30000,placebo,symmetric,2000,16000,50000,False,2732,149,30,12,4,-0.143,-0.654,0.496,False
+CA,30000,placebo,asymmetric (below only),3000,16000,50000,False,2732,234,31,11,3,-0.082,-0.704,0.795,False
+CA,30000,placebo,symmetric,3000,16000,50000,False,2732,234,28,11,6,-0.285,-0.79,0.419,False
+CA,30000,placebo,asymmetric (below only),4000,16000,50000,False,2732,320,30,10,4,-0.175,-0.982,0.654,False
+CA,30000,placebo,symmetric,4000,16000,50000,False,2732,320,26,10,8,-0.582,-1.299,0.121,False
+CA,30000,placebo,asymmetric (below only),5000,16000,50000,False,2732,392,29,9,5,-0.678,-1.439,0.139,False
+CA,30000,placebo,symmetric,5000,16000,50000,False,2732,392,24,9,10,-1.199,-1.717,-0.422,True
+CA,30000,placebo,asymmetric (below only),6000,16000,50000,False,2732,513,28,8,6,-0.425,-1.387,0.638,False
+CA,30000,placebo,symmetric,6000,16000,50000,False,2732,513,22,8,12,-1.023,-1.799,-0.001,True
+CA,30000,placebo,asymmetric (below only),7000,16000,50000,False,2732,653,27,7,7,0.271,-0.85,1.5,False
+CA,30000,placebo,symmetric,7000,16000,50000,False,2732,653,20,7,14,-0.26,-1.323,1.566,False
+CA,30000,placebo,asymmetric (below only),8000,16000,50000,False,2732,808,26,6,8,1.885,0.664,3.466,True
+CA,30000,placebo,symmetric,8000,16000,50000,False,2732,808,18,6,16,1.698,0.193,4.649,True
+CA,30000,placebo,asymmetric (below only),9000,16000,50000,False,2732,933,25,5,9,2.586,1.127,4.645,True
+CA,30000,placebo,symmetric,9000,16000,50000,False,2732,933,16,5,18,2.282,0.018,5.744,True
+CA,30000,placebo,asymmetric (below only),10000,16000,50000,True,2732,1074,24,4,10,4.894,2.52,7.864,True
+CA,30000,placebo,symmetric,10000,16000,50000,True,2732,1074,14,4,20,11.019,5.089,20.886,True
+CA,35000,placebo,asymmetric (below only),1000,21000,55000,False,2083,76,33,13,1,0.365,-0.063,0.816,False
+CA,35000,placebo,symmetric,1000,21000,55000,False,2083,76,32,13,2,0.42,-0.067,0.845,False
+CA,35000,placebo,asymmetric (below only),2000,21000,55000,False,2083,129,32,12,2,0.259,-0.285,0.871,False
+CA,35000,placebo,symmetric,2000,21000,55000,False,2083,129,30,12,4,0.432,-0.184,1.098,False
+CA,35000,placebo,asymmetric (below only),3000,21000,55000,False,2083,177,31,11,3,-0.032,-0.663,0.652,False
+CA,35000,placebo,symmetric,3000,21000,55000,False,2083,177,28,11,6,0.176,-0.56,0.901,False
+CA,35000,placebo,asymmetric (below only),4000,21000,55000,False,2083,229,30,10,4,-0.338,-1.071,0.345,False
+CA,35000,placebo,symmetric,4000,21000,55000,False,2083,229,26,10,8,-0.154,-0.938,0.746,False
+CA,35000,placebo,asymmetric (below only),5000,21000,55000,False,2083,296,29,9,5,-0.404,-1.292,0.657,False
+CA,35000,placebo,symmetric,5000,21000,55000,False,2083,296,24,9,10,0.09,-0.896,1.405,False
+CA,35000,placebo,asymmetric (below only),6000,21000,55000,False,2083,371,28,8,6,-0.374,-1.32,0.656,False
+CA,35000,placebo,symmetric,6000,21000,55000,False,2083,371,22,8,12,0.763,-0.561,2.696,False
+CA,35000,placebo,asymmetric (below only),7000,21000,55000,False,2083,445,27,7,7,-0.55,-1.491,0.947,False
+CA,35000,placebo,symmetric,7000,21000,55000,False,2083,445,20,7,14,0.413,-1.243,2.614,False
+CA,35000,placebo,asymmetric (below only),8000,21000,55000,False,2083,530,26,6,8,-0.59,-1.852,1.041,False
+CA,35000,placebo,symmetric,8000,21000,55000,False,2083,530,18,6,16,0.251,-1.569,3.552,False
+CA,35000,placebo,asymmetric (below only),9000,21000,55000,False,2083,616,25,5,9,-1.016,-2.279,0.597,False
+CA,35000,placebo,symmetric,9000,21000,55000,False,2083,616,16,5,18,-0.435,-2.333,3.437,False
+CA,35000,placebo,asymmetric (below only),10000,21000,55000,True,2083,688,24,4,10,-3.15,-3.902,-2.354,True
+CA,35000,placebo,symmetric,10000,21000,55000,True,2083,688,14,4,20,-4.222,-5.087,-3.491,True
+CA,40000,placebo,asymmetric (below only),1000,26000,60000,False,1613,61,33,13,1,0.228,-0.082,0.578,False
+CA,40000,placebo,symmetric,1000,26000,60000,False,1613,61,32,13,2,0.25,-0.047,0.705,False
+CA,40000,placebo,asymmetric (below only),2000,26000,60000,False,1613,107,32,12,2,0.1,-0.312,0.582,False
+CA,40000,placebo,symmetric,2000,26000,60000,False,1613,107,30,12,4,0.056,-0.324,0.51,False
+CA,40000,placebo,asymmetric (below only),3000,26000,60000,False,1613,155,31,11,3,-0.034,-0.54,0.514,False
+CA,40000,placebo,symmetric,3000,26000,60000,False,1613,155,28,11,6,-0.22,-0.64,0.275,False
+CA,40000,placebo,asymmetric (below only),4000,26000,60000,False,1613,219,30,10,4,0.222,-0.432,0.981,False
+CA,40000,placebo,symmetric,4000,26000,60000,False,1613,219,26,10,8,-0.13,-0.565,0.434,False
+CA,40000,placebo,asymmetric (below only),5000,26000,60000,False,1613,292,29,9,5,0.841,0.108,1.639,True
+CA,40000,placebo,symmetric,5000,26000,60000,False,1613,292,24,9,10,0.313,-0.348,1.057,False
+CA,40000,placebo,asymmetric (below only),6000,26000,60000,False,1613,368,28,8,6,1.867,1.143,2.995,True
+CA,40000,placebo,symmetric,6000,26000,60000,False,1613,368,22,8,12,1.74,1.02,2.602,True
+CA,40000,placebo,asymmetric (below only),7000,26000,60000,False,1613,421,27,7,7,1.91,0.98,2.976,True
+CA,40000,placebo,symmetric,7000,26000,60000,False,1613,421,20,7,14,2.354,1.342,3.522,True
+CA,40000,placebo,asymmetric (below only),8000,26000,60000,False,1613,469,26,6,8,1.369,0.325,2.598,True
+CA,40000,placebo,symmetric,8000,26000,60000,False,1613,469,18,6,16,2.022,1.017,3.239,True
+CA,40000,placebo,asymmetric (below only),9000,26000,60000,False,1613,521,25,5,9,0.546,-0.274,1.649,False
+CA,40000,placebo,symmetric,9000,26000,60000,False,1613,521,16,5,18,0.84,-0.001,1.905,False
+CA,40000,placebo,asymmetric (below only),10000,26000,60000,True,1613,588,24,4,10,0.454,-0.751,2.152,False
+CA,40000,placebo,symmetric,10000,26000,60000,True,1613,588,14,4,20,1.499,0.428,2.92,True
+WA,25000,REAL,asymmetric (below only),1000,11000,45000,False,1011,14,33,13,1,-0.436,-0.834,0.003,False
+WA,25000,REAL,symmetric,1000,11000,45000,False,1011,14,32,13,2,-0.447,-0.816,-0.01,True
+WA,25000,REAL,asymmetric (below only),2000,11000,45000,False,1011,42,32,12,2,-0.393,-0.967,0.233,False
+WA,25000,REAL,symmetric,2000,11000,45000,False,1011,42,30,12,4,-0.479,-1.043,0.173,False
+WA,25000,REAL,asymmetric (below only),3000,11000,45000,False,1011,75,31,11,3,-0.256,-0.917,0.476,False
+WA,25000,REAL,symmetric,3000,11000,45000,False,1011,75,28,11,6,-0.419,-0.984,0.372,False
+WA,25000,REAL,asymmetric (below only),4000,11000,45000,False,1011,108,30,10,4,-0.277,-1.068,0.737,False
+WA,25000,REAL,symmetric,4000,11000,45000,False,1011,108,26,10,8,-0.423,-1.098,0.77,False
+WA,25000,REAL,asymmetric (below only),5000,11000,45000,False,1011,143,29,9,5,-0.396,-1.342,0.608,False
+WA,25000,REAL,symmetric,5000,11000,45000,False,1011,143,24,9,10,-0.61,-1.482,0.535,False
+WA,25000,REAL,asymmetric (below only),6000,11000,45000,False,1011,192,28,8,6,0.095,-0.862,1.852,False
+WA,25000,REAL,symmetric,6000,11000,45000,False,1011,192,22,8,12,-0.085,-1.326,1.799,False
+WA,25000,REAL,asymmetric (below only),7000,11000,45000,False,1011,230,27,7,7,-0.382,-1.546,0.975,False
+WA,25000,REAL,symmetric,7000,11000,45000,False,1011,230,20,7,14,-0.853,-2.209,1.038,False
+WA,25000,REAL,asymmetric (below only),8000,11000,45000,False,1011,271,26,6,8,-1.134,-2.214,-0.043,True
+WA,25000,REAL,symmetric,8000,11000,45000,False,1011,271,18,6,16,-2.347,-3.203,-1.188,True
+WA,25000,REAL,asymmetric (below only),9000,11000,45000,False,1011,319,25,5,9,-1.994,-3.026,-0.84,True
+WA,25000,REAL,symmetric,9000,11000,45000,False,1011,319,16,5,18,-4.063,-4.569,-3.44,True
+WA,25000,REAL,asymmetric (below only),10000,11000,45000,True,1011,386,24,4,10,-1.697,-2.901,-0.295,True
+WA,25000,REAL,symmetric,10000,11000,45000,True,1011,386,14,4,20,-4.862,-5.379,-4.34,True
+WA,28000,placebo,asymmetric (below only),1000,14000,48000,False,841,19,33,13,1,0.023,-0.445,0.557,False
+WA,28000,placebo,symmetric,1000,14000,48000,False,841,19,32,13,2,0.056,-0.407,0.658,False
+WA,28000,placebo,asymmetric (below only),2000,14000,48000,False,841,33,32,12,2,-0.323,-1.018,0.299,False
+WA,28000,placebo,symmetric,2000,14000,48000,False,841,33,30,12,4,-0.266,-0.911,0.628,False
+WA,28000,placebo,asymmetric (below only),3000,14000,48000,False,841,51,31,11,3,-0.536,-1.21,0.528,False
+WA,28000,placebo,symmetric,3000,14000,48000,False,841,51,28,11,6,-0.49,-1.255,0.525,False
+WA,28000,placebo,asymmetric (below only),4000,14000,48000,False,841,65,30,10,4,-1.133,-1.874,-0.293,True
+WA,28000,placebo,symmetric,4000,14000,48000,False,841,65,26,10,8,-1.209,-1.977,-0.255,True
+WA,28000,placebo,asymmetric (below only),5000,14000,48000,False,841,93,29,9,5,-1.022,-1.893,0.034,False
+WA,28000,placebo,symmetric,5000,14000,48000,False,841,93,24,9,10,-1.341,-2.162,-0.169,True
+WA,28000,placebo,asymmetric (below only),6000,14000,48000,False,841,126,28,8,6,-0.676,-1.712,0.694,False
+WA,28000,placebo,symmetric,6000,14000,48000,False,841,126,22,8,12,-1.331,-2.456,0.046,False
+WA,28000,placebo,asymmetric (below only),7000,14000,48000,False,841,159,27,7,7,-0.474,-1.686,1.155,False
+WA,28000,placebo,symmetric,7000,14000,48000,False,841,159,20,7,14,-1.367,-2.418,0.158,False
+WA,28000,placebo,asymmetric (below only),8000,14000,48000,False,841,194,26,6,8,-0.349,-1.618,1.42,False
+WA,28000,placebo,symmetric,8000,14000,48000,False,841,194,18,6,16,-1.076,-2.789,1.068,False
+WA,28000,placebo,asymmetric (below only),9000,14000,48000,False,841,243,25,5,9,2.051,-0.004,4.631,False
+WA,28000,placebo,symmetric,9000,14000,48000,False,841,243,16,5,18,7.882,3.599,17.663,True
+WA,28000,placebo,asymmetric (below only),10000,14000,48000,True,841,281,24,4,10,2.077,-0.077,4.864,False
+WA,28000,placebo,symmetric,10000,14000,48000,True,841,281,14,4,20,13.255,4.11,46.083,True
+WA,30000,placebo,asymmetric (below only),1000,16000,50000,False,732,18,33,13,1,-0.012,-0.489,0.682,False
+WA,30000,placebo,symmetric,1000,16000,50000,False,732,18,32,13,2,-0.023,-0.479,0.626,False
+WA,30000,placebo,asymmetric (below only),2000,16000,50000,False,732,41,32,12,2,0.265,-0.431,1.3,False
+WA,30000,placebo,symmetric,2000,16000,50000,False,732,41,30,12,4,0.226,-0.433,1.205,False
+WA,30000,placebo,asymmetric (below only),3000,16000,50000,False,732,60,31,11,3,0.242,-0.688,1.378,False
+WA,30000,placebo,symmetric,3000,16000,50000,False,732,60,28,11,6,0.067,-0.796,1.343,False
+WA,30000,placebo,asymmetric (below only),4000,16000,50000,False,732,74,30,10,4,-0.262,-1.297,1.044,False
+WA,30000,placebo,symmetric,4000,16000,50000,False,732,74,26,10,8,-0.644,-1.546,0.378,False
+WA,30000,placebo,asymmetric (below only),5000,16000,50000,False,732,92,29,9,5,-0.626,-1.708,0.938,False
+WA,30000,placebo,symmetric,5000,16000,50000,False,732,92,24,9,10,-1.154,-2.163,0.188,False
+WA,30000,placebo,asymmetric (below only),6000,16000,50000,False,732,106,28,8,6,-1.524,-2.408,-0.23,True
+WA,30000,placebo,symmetric,6000,16000,50000,False,732,106,22,8,12,-2.131,-2.925,-1.249,True
+WA,30000,placebo,asymmetric (below only),7000,16000,50000,False,732,134,27,7,7,-1.58,-2.639,-0.4,True
+WA,30000,placebo,symmetric,7000,16000,50000,False,732,134,20,7,14,-1.916,-2.965,-0.339,True
+WA,30000,placebo,asymmetric (below only),8000,16000,50000,False,732,167,26,6,8,-1.35,-2.618,0.433,False
+WA,30000,placebo,symmetric,8000,16000,50000,False,732,167,18,6,16,-1.997,-3.164,-0.106,True
+WA,30000,placebo,asymmetric (below only),9000,16000,50000,False,732,200,25,5,9,-1.337,-2.745,0.871,False
+WA,30000,placebo,symmetric,9000,16000,50000,False,732,200,16,5,18,-2.506,-4.002,-0.366,True
+WA,30000,placebo,asymmetric (below only),10000,16000,50000,True,732,235,24,4,10,-1.476,-3.285,1.275,False
+WA,30000,placebo,symmetric,10000,16000,50000,True,732,235,14,4,20,-3.23,-4.855,-0.432,True
+WA,35000,placebo,asymmetric (below only),1000,21000,55000,False,559,20,33,13,1,0.176,-0.304,0.738,False
+WA,35000,placebo,symmetric,1000,21000,55000,False,559,20,32,13,2,0.231,-0.292,0.87,False
+WA,35000,placebo,asymmetric (below only),2000,21000,55000,False,559,35,32,12,2,0.052,-0.665,0.781,False
+WA,35000,placebo,symmetric,2000,21000,55000,False,559,35,30,12,4,0.356,-0.379,1.211,False
+WA,35000,placebo,asymmetric (below only),3000,21000,55000,False,559,48,31,11,3,-0.233,-1.09,0.723,False
+WA,35000,placebo,symmetric,3000,21000,55000,False,559,48,28,11,6,0.155,-0.671,1.194,False
+WA,35000,placebo,asymmetric (below only),4000,21000,55000,False,559,64,30,10,4,-0.313,-1.299,0.86,False
+WA,35000,placebo,symmetric,4000,21000,55000,False,559,64,26,10,8,0.251,-0.918,1.705,False
+WA,35000,placebo,asymmetric (below only),5000,21000,55000,False,559,80,29,9,5,-0.41,-1.623,1.04,False
+WA,35000,placebo,symmetric,5000,21000,55000,False,559,80,24,9,10,0.548,-0.846,2.837,False
+WA,35000,placebo,asymmetric (below only),6000,21000,55000,False,559,98,28,8,6,-0.324,-1.741,1.454,False
+WA,35000,placebo,symmetric,6000,21000,55000,False,559,98,22,8,12,0.247,-1.312,2.558,False
+WA,35000,placebo,asymmetric (below only),7000,21000,55000,False,559,121,27,7,7,0.562,-1.356,3.162,False
+WA,35000,placebo,symmetric,7000,21000,55000,False,559,121,20,7,14,1.658,-0.764,5.721,False
+WA,35000,placebo,asymmetric (below only),8000,21000,55000,False,559,140,26,6,8,1.139,-1.063,4.392,False
+WA,35000,placebo,symmetric,8000,21000,55000,False,559,140,18,6,16,5.916,1.339,17.883,True
+WA,35000,placebo,asymmetric (below only),9000,21000,55000,False,559,154,25,5,9,0.223,-2.034,3.933,False
+WA,35000,placebo,symmetric,9000,21000,55000,False,559,154,16,5,18,5.462,-0.24,20.54,False
+WA,35000,placebo,asymmetric (below only),10000,21000,55000,True,559,172,24,4,10,-0.548,-3.479,4.389,False
+WA,35000,placebo,symmetric,10000,21000,55000,True,559,172,14,4,20,22.005,2.157,195259878624.308,True
+WA,40000,placebo,asymmetric (below only),1000,26000,60000,False,479,18,33,13,1,0.023,-0.332,0.57,False
+WA,40000,placebo,symmetric,1000,26000,60000,False,479,18,32,13,2,-0.029,-0.303,0.454,False
+WA,40000,placebo,asymmetric (below only),2000,26000,60000,False,479,34,32,12,2,-0.106,-0.639,0.576,False
+WA,40000,placebo,symmetric,2000,26000,60000,False,479,34,30,12,4,-0.26,-0.736,0.286,False
+WA,40000,placebo,asymmetric (below only),3000,26000,60000,False,479,49,31,11,3,-0.345,-1.108,0.444,False
+WA,40000,placebo,symmetric,3000,26000,60000,False,479,49,28,11,6,-0.555,-1.055,0.202,False
+WA,40000,placebo,asymmetric (below only),4000,26000,60000,False,479,76,30,10,4,0.349,-0.589,1.43,False
+WA,40000,placebo,symmetric,4000,26000,60000,False,479,76,26,10,8,-0.024,-0.722,0.875,False
+WA,40000,placebo,asymmetric (below only),5000,26000,60000,False,479,100,29,9,5,1.039,0.047,2.381,True
+WA,40000,placebo,symmetric,5000,26000,60000,False,479,100,24,9,10,0.88,-0.324,2.226,False
+WA,40000,placebo,asymmetric (below only),6000,26000,60000,False,479,120,28,8,6,1.535,0.203,3.152,True
+WA,40000,placebo,symmetric,6000,26000,60000,False,479,120,22,8,12,2.017,0.439,4.2,True
+WA,40000,placebo,asymmetric (below only),7000,26000,60000,False,479,135,27,7,7,1.399,-0.06,3.178,False
+WA,40000,placebo,symmetric,7000,26000,60000,False,479,135,20,7,14,1.435,-0.583,4.383,False
+WA,40000,placebo,asymmetric (below only),8000,26000,60000,False,479,148,26,6,8,0.723,-1.229,3.128,False
+WA,40000,placebo,symmetric,8000,26000,60000,False,479,148,18,6,16,-0.451,-2.127,2.009,False
+WA,40000,placebo,asymmetric (below only),9000,26000,60000,False,479,164,25,5,9,0.41,-1.744,3.193,False
+WA,40000,placebo,symmetric,9000,26000,60000,False,479,164,16,5,18,-2.47,-3.652,-0.831,True
+WA,40000,placebo,asymmetric (below only),10000,26000,60000,True,479,180,24,4,10,-0.236,-2.474,2.847,False
+WA,40000,placebo,symmetric,10000,26000,60000,True,479,180,14,4,20,-2.592,-3.848,-1.086,True
+federal always-covered,25000,placebo,asymmetric (below only),1000,11000,45000,False,7939,269,33,13,1,0.06,-0.032,0.187,False
+federal always-covered,25000,placebo,symmetric,1000,11000,45000,False,7939,269,32,13,2,0.059,-0.024,0.165,False
+federal always-covered,25000,placebo,asymmetric (below only),2000,11000,45000,False,7939,548,32,12,2,0.205,0.069,0.358,True
+federal always-covered,25000,placebo,symmetric,2000,11000,45000,False,7939,548,30,12,4,0.238,0.105,0.41,True
+federal always-covered,25000,placebo,asymmetric (below only),3000,11000,45000,False,7939,779,31,11,3,0.149,-0.016,0.347,False
+federal always-covered,25000,placebo,symmetric,3000,11000,45000,False,7939,779,28,11,6,0.148,-0.031,0.32,False
+federal always-covered,25000,placebo,asymmetric (below only),4000,11000,45000,False,7939,1010,30,10,4,0.109,-0.1,0.331,False
+federal always-covered,25000,placebo,symmetric,4000,11000,45000,False,7939,1010,26,10,8,0.054,-0.159,0.247,False
+federal always-covered,25000,placebo,asymmetric (below only),5000,11000,45000,False,7939,1237,29,9,5,0.066,-0.203,0.324,False
+federal always-covered,25000,placebo,symmetric,5000,11000,45000,False,7939,1237,24,9,10,0.031,-0.221,0.301,False
+federal always-covered,25000,placebo,asymmetric (below only),6000,11000,45000,False,7939,1470,28,8,6,0.102,-0.233,0.417,False
+federal always-covered,25000,placebo,symmetric,6000,11000,45000,False,7939,1470,22,8,12,0.111,-0.205,0.454,False
+federal always-covered,25000,placebo,asymmetric (below only),7000,11000,45000,False,7939,1683,27,7,7,-0.01,-0.411,0.308,False
+federal always-covered,25000,placebo,symmetric,7000,11000,45000,False,7939,1683,20,7,14,0.066,-0.381,0.456,False
+federal always-covered,25000,placebo,asymmetric (below only),8000,11000,45000,False,7939,1888,26,6,8,-0.258,-0.656,0.209,False
+federal always-covered,25000,placebo,symmetric,8000,11000,45000,False,7939,1888,18,6,16,-0.181,-0.656,0.308,False
+federal always-covered,25000,placebo,asymmetric (below only),9000,11000,45000,False,7939,2126,25,5,9,-0.02,-0.518,0.545,False
+federal always-covered,25000,placebo,symmetric,9000,11000,45000,False,7939,2126,16,5,18,0.049,-0.68,0.733,False
+federal always-covered,25000,placebo,asymmetric (below only),10000,11000,45000,True,7939,2335,24,4,10,-0.323,-0.898,0.535,False
+federal always-covered,25000,placebo,symmetric,10000,11000,45000,True,7939,2335,14,4,20,-0.474,-1.397,0.437,False
+federal always-covered (unconstrained),25000,placebo (untruncated),asymmetric (below only),1000,10000,45000,False,8148,269,34,14,1,0.058,-0.051,0.174,False
+federal always-covered (unconstrained),25000,placebo (untruncated),symmetric,1000,10000,45000,False,8148,269,33,14,2,0.058,-0.049,0.172,False
+federal always-covered (unconstrained),25000,placebo (untruncated),asymmetric (below only),2000,9000,45000,False,8430,548,34,14,2,0.198,0.032,0.358,True
+federal always-covered (unconstrained),25000,placebo (untruncated),symmetric,2000,9000,45000,False,8430,548,32,14,4,0.23,0.073,0.417,True
+federal always-covered (unconstrained),25000,placebo (untruncated),asymmetric (below only),3000,8000,45000,False,8664,779,34,14,3,0.13,-0.11,0.359,False
+federal always-covered (unconstrained),25000,placebo (untruncated),symmetric,3000,8000,45000,False,8664,779,31,14,6,0.141,-0.087,0.392,False
+federal always-covered (unconstrained),25000,placebo (untruncated),asymmetric (below only),4000,7000,45000,False,8895,1010,34,14,4,0.064,-0.217,0.402,False
+federal always-covered (unconstrained),25000,placebo (untruncated),symmetric,4000,7000,45000,False,8895,1010,30,14,8,0.063,-0.247,0.399,False
+federal always-covered (unconstrained),25000,placebo (untruncated),asymmetric (below only),5000,6000,45000,False,9126,1237,34,14,5,-0.027,-0.324,0.411,False
+federal always-covered (unconstrained),25000,placebo (untruncated),symmetric,5000,6000,45000,False,9126,1237,29,14,10,0.084,-0.285,0.475,False
+federal always-covered (unconstrained),25000,placebo (untruncated),asymmetric (below only),6000,5000,45000,False,9416,1470,34,14,6,-0.08,-0.508,0.317,False
+federal always-covered (unconstrained),25000,placebo (untruncated),symmetric,6000,5000,45000,False,9416,1470,28,14,12,0.107,-0.429,0.648,False
+federal always-covered (unconstrained),25000,placebo (untruncated),asymmetric (below only),7000,4000,45000,False,9699,1683,34,14,7,-0.265,-0.721,0.236,False
+federal always-covered (unconstrained),25000,placebo (untruncated),symmetric,7000,4000,45000,False,9699,1683,27,14,14,0.048,-0.58,0.633,False
+federal always-covered (unconstrained),25000,placebo (untruncated),asymmetric (below only),8000,3000,45000,False,9976,1888,34,14,8,-0.53,-0.977,-0.024,True
+federal always-covered (unconstrained),25000,placebo (untruncated),symmetric,8000,3000,45000,False,9976,1888,26,14,16,-0.079,-0.754,0.755,False
+federal always-covered (unconstrained),25000,placebo (untruncated),asymmetric (below only),9000,2000,45000,False,10262,2126,34,14,9,-0.544,-1.009,-0.011,True
+federal always-covered (unconstrained),25000,placebo (untruncated),symmetric,9000,2000,45000,False,10262,2126,25,14,18,0.288,-0.719,1.331,False
+federal always-covered (unconstrained),25000,placebo (untruncated),asymmetric (below only),10000,1000,45000,False,10588,2335,34,14,10,-0.832,-1.351,-0.21,True
+federal always-covered (unconstrained),25000,placebo (untruncated),symmetric,10000,1000,45000,False,10588,2335,24,14,20,-0.282,-1.23,0.758,False
+federal always-covered (unconstrained),25000,placebo (untruncated),asymmetric (below only),11000,0,45000,False,10916,2574,34,14,11,-0.841,-1.387,-0.188,True
+federal always-covered (unconstrained),25000,placebo (untruncated),symmetric,11000,0,45000,False,10916,2574,23,14,22,0.28,-0.909,1.852,False
+federal always-covered (unconstrained),25000,placebo (untruncated),asymmetric (below only),12000,-1000,45000,False,10916,2797,34,14,12,-0.9,-2.675,1.213,False
+federal always-covered (unconstrained),25000,placebo (untruncated),symmetric,12000,-1000,45000,False,10916,2797,22,14,24,18.564,3.843,3022980600858.959,True
+federal always-covered (unconstrained),25000,placebo (untruncated),asymmetric (below only),13000,-2000,45000,False,10916,3018,34,14,13,-1.313,-3.186,1.663,False
+federal always-covered (unconstrained),25000,placebo (untruncated),symmetric,13000,-2000,45000,False,10916,3018,21,14,26,154.876,7.851,4156634148205.608,True
+federal always-covered (unconstrained),25000,placebo (untruncated),asymmetric (below only),14000,-3000,45000,False,10916,3266,34,14,14,-1.698,-4.044,1.341,False
+federal always-covered (unconstrained),25000,placebo (untruncated),symmetric,14000,-3000,45000,False,10916,3266,20,14,28,3454782361754.584,20.576,4738733945636.865,True
+federal always-covered (unconstrained),25000,placebo (untruncated),asymmetric (below only),15000,-4000,45000,False,10916,3475,34,14,15,-2.746,-4.736,-0.078,True
+federal always-covered (unconstrained),25000,placebo (untruncated),symmetric,15000,-4000,45000,False,10916,3475,19,14,30,40.923,5.71,4277593105318.132,True
+federal always-covered (unconstrained),25000,placebo (untruncated),asymmetric (below only),16000,-5000,45000,False,10916,3757,34,14,16,-3.088,-5.019,-0.248,True
+federal always-covered (unconstrained),25000,placebo (untruncated),symmetric,16000,-5000,45000,False,10916,3757,18,14,32,20.226,-0.605,4257222955179.747,False
+federal always-covered (unconstrained),25000,placebo (untruncated),asymmetric (below only),17000,-6000,45000,False,10916,3991,34,14,17,-4.01,-6.321,-1.137,True
+federal always-covered (unconstrained),25000,placebo (untruncated),symmetric,17000,-6000,45000,False,10916,3991,17,14,34,-0.054,-7.404,42.511,False
+federal always-covered (unconstrained),25000,placebo (untruncated),asymmetric (below only),18000,-7000,45000,False,10916,4222,34,14,18,-4.963,-6.627,-1.76,True
+federal always-covered (unconstrained),25000,placebo (untruncated),symmetric,18000,-7000,45000,False,10916,4222,16,14,36,-7.462,-11.213,6.313,False
+federal always-covered (unconstrained),25000,placebo (untruncated),asymmetric (below only),19000,-8000,45000,False,10916,4453,34,14,19,-5.857,-7.885,-2.823,True
+federal always-covered (unconstrained),25000,placebo (untruncated),symmetric,19000,-8000,45000,False,10916,4453,15,14,38,39224061320499.47,15862447902117.877,57803570087050.31,True
+federal always-covered (unconstrained),25000,placebo (untruncated),asymmetric (below only),20000,-9000,45000,False,10916,4743,34,14,20,-5.945,-8.046,-3.001,True
+federal always-covered (unconstrained),25000,placebo (untruncated),symmetric,20000,-9000,45000,False,10916,4743,14,14,40,646506659341946.4,412522216216392.56,852571001773417.1,True

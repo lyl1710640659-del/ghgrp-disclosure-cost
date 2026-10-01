@@ -1,0 +1,3 @@
+sample,n,matched,pct_by_count,pct_by_emissions
+all facility-years,94378,94159,99.8,99.9
+threshold-bound only,53786,53608,99.7,99.7

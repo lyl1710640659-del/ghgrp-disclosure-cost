@@ -1,0 +1,5 @@
+measure,value
+NAICS3 cells in the window,43
+cells with >= 30 in BOTH groups,4
+TB observations inside those cells,9.7%
+AC observations inside those cells,97.7%

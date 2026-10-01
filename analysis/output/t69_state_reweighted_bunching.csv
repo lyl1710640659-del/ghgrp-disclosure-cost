@@ -1,0 +1,4 @@
+spec,excess,lo,hi,sig,n
+"(1) full state panel      [symmetric window, cf. f30's 0.863]",1.0602113707514154,0.4224677726474874,1.814369663670643,True,2769
+"(2) matched subsample     [selection, NOT a corrected estimate]",-1.1477962151165695,-1.7127576227075194,-0.49631522311521664,True,1007
+"(3) matched + reweighted  [degenerate weights, NOT usable]",-0.8743482613138375,-1.5140262563530609,-0.20167127824043798,True,13134

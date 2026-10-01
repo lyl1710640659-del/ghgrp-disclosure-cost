@@ -1,0 +1,4 @@
+definition,n_TB,n_AC,ac_share,step_TB,step_AC,truncation_artefact_TB,excess_AC,AC_sig,exit_TB,elig_TB
+full (19 subparts),53580,40299,0.429,1.461,0.948,-1.074,0.066,False,0.0289,0.0366
+strict (16 unconditional),71143,22736,0.242,1.346,0.987,-0.846,-0.093,False,0.0258,0.0508
+legacy D/F/G/H/HH,59329,34550,0.368,1.447,0.957,-1.042,0.043,False,0.028,0.0349

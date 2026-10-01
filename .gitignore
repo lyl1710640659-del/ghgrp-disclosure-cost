@@ -1,0 +1,13 @@
+# raw data (public, several GB) and licensed data -- never committed
+analysis/data/
+analysis/output/link_*
+analysis/output/*.pkl
+analysis/output/*.dta
+analysis/output/*.npz
+analysis/output/_*/
+*.xlsx
+# caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

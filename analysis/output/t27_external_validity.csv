@@ -1,0 +1,12 @@
+variable,ca_wa,rest,ND,flag,block
+log emissions,10.78,10.897,-0.087,,normalised differences
+methane share,0.034,0.073,-0.256,***,normalised differences
+CO2 share,0.958,0.928,0.208,,normalised differences
+number of subparts,1.291,1.532,-0.412,***,normalised differences
+more than one subpart,0.253,0.466,-0.457,***,normalised differences
+CEMS installed,0.011,0.016,-0.044,,normalised differences
+in the 20–30k band,0.143,0.147,-0.01,,normalised differences
+panel length (years),11.976,11.986,-0.003,,normalised differences
+first reporting year,2010.693,2010.982,-0.141,,normalised differences
+exits this year,0.038,0.03,0.042,,normalised differences
+98.2(i)-eligible,0.055,0.037,0.087,,normalised differences

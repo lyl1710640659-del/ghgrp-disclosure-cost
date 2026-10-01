@@ -1,0 +1,9 @@
+outcome,spec,ca_wa,rest,diff,se,t,p,n_eff_rest
+density step 24-25k -> 25-26k (ratio),unweighted,1.262,1.473,-0.211,,,,50032
+density step 24-25k -> 25-26k (ratio),reweighted,1.262,1.417,-0.155,,,,3508
+growth | lag emissions in 20-30k,unweighted,-0.0584,-0.0536,-0.0049,0.0196,-0.25,0.8031,6556
+growth | lag emissions in 20-30k,reweighted,-0.0584,-0.0601,0.0016,0.0199,0.08,0.9342,5548
+exit rate,unweighted,0.0349,0.0285,0.0064,0.0032,2.03,0.0421,50032
+exit rate,reweighted,0.0349,0.0348,0.0002,0.0032,0.06,0.9555,41514
+98.2(i)-eligible,unweighted,0.0533,0.0354,0.0179,0.0039,4.63,0.0,50032
+98.2(i)-eligible,reweighted,0.0533,0.0411,0.0121,0.0039,3.12,0.0018,41514

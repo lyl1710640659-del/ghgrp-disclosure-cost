@@ -1,0 +1,9 @@
+variable,ca_wa,rest_raw,ND_raw,rest_weighted,ND_weighted,fixed
+log emissions,10.78,10.897,-0.087,10.808,-0.02,
+methane share,0.033,0.071,-0.264,0.032,0.009,yes
+CO2 share,0.946,0.92,0.152,0.956,-0.065,
+number of subparts,1.29,1.533,-0.415,1.292,-0.003,yes
+more than one subpart,0.253,0.467,-0.457,0.255,-0.004,yes
+CEMS installed,0.011,0.016,-0.049,0.011,-0.001,
+panel length (years),11.995,12.0,-0.002,12.036,-0.013,
+first reporting year,2010.697,2010.983,-0.139,2010.684,0.007,

@@ -1,0 +1,10 @@
+spec,n,n_elig,p_elig,p_other,diff,se,t,lo,hi
+baseline (EPA crosswalk only),465,227,0.7621,0.1681,0.594,0.0372,15.96,0.5211,0.667
+EPA crosswalk matches only,465,227,0.7621,0.1681,0.594,0.0372,15.96,0.5211,0.667
+still operable 2 years after exit,465,227,0.7225,0.1261,0.5964,0.0367,16.26,0.5245,0.6683
+STILL GENERATING (EIA-923) after exit,465,227,0.6564,0.0924,0.564,0.0367,15.37,0.492,0.6359
+still generating 2 years after exit,465,227,0.6167,0.0714,0.5453,0.0363,15.01,0.4741,0.6165
+generating + threshold-bound only,149,80,0.6625,0.2464,0.4161,0.0741,5.62,0.271,0.5613
+threshold-bound facilities only,149,80,0.7875,0.3913,0.3962,0.0745,5.32,0.2503,0.5421
+exits 2010-2019 (2 yrs of follow-up),387,198,0.7879,0.1799,0.608,0.0403,15.08,0.529,0.687
+NAICS 221 (utilities) only,438,218,0.7615,0.1409,0.6206,0.0372,16.68,0.5477,0.6935

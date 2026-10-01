@@ -1,0 +1,7 @@
+null,detail,estimate,se,mde,unit
+"growth, near vs away at 25,000","far_all, raw",-0.0037,0.0059,0.0165,log points of annual growth
+"growth, near vs away at 25,000","far_all, facility FE",0.0104,0.0056,0.0158,log points of annual growth
+"growth, near vs away at 25,000","far_band, raw",0.0087,0.006,0.0169,log points of annual growth
+"growth, near vs away at 25,000","far_band, facility FE",0.0226,0.0058,0.0162,log points of annual growth
+newly arrived: post-entry slowdown,genuine crossings,-0.0081,0.0147,0.0412,log points of annual growth
+"newly arrived: share new at 25-30k, TB minus AC",25-30k bin,0.0138,0.0392,0.1098,share (pp/100)

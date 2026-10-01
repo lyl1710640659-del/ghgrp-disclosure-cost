@@ -1,0 +1,5 @@
+sample,n,firms,rev_p25,rev_med,rev_p75,ebitda_p25,ebitda_med,ebitda_p75
+"all matched parents (NOT usable, shown to make the point)",4181,417,2303,10910,66121,301,1877,11623
+NAICS 221 utilities,772,68,290,801,6158,92,214,1952
+"NAICS 221, >= 1 Mt reported",563,53,236,399,1091,73,127,356
+"NAICS 221, >= 10 Mt reported  <- the estimate",274,31,186,265,375,52,85,122

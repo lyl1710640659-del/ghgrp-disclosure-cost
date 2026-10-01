@@ -1,0 +1,13 @@
+quantity,n,of,pct
+facility-years with an FRS Id in the GHGRP panel,92317,94378,0.9782
+FACILITIES with an FRS Id,8587,8778,0.9782
+facility-years whose FRS Id is FOUND in ECHO Exporter,83550,94378,0.8853
+FACILITIES found in ECHO Exporter,7994,8778,0.9107
+EMISSIONS-weighted: share of total tCO2e in matched facility-years,36462750330,39318004650,0.9274
+variable,matched,unmatched,ND,flag
+log emissions,11.371,11.012,0.223,
+threshold-bound,0.564,0.614,-0.101,
+more than one subpart,0.526,0.533,-0.014,
+in the 20-30k band,0.106,0.141,-0.105,
+98.2(i)-eligible,0.052,0.04,0.055,
+panel length,12.624,11.004,0.477,***

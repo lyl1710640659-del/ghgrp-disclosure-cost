@@ -1,0 +1,5 @@
+sample,n,matched,pct,pct_emis
+all state facility-years,11466,4640,40.5,21.5
+"in the bunching fit range [11k, 45k]",4696,1639,34.9,41.9
+"ABOVE the line [25k, 45k]",1534,935,61.0,61.1
+"BELOW the line [20k, 25k)  <- the excess mass",825,219,26.5,26.5

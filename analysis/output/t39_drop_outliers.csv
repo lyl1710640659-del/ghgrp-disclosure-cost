@@ -1,0 +1,15 @@
+cutoff,kind,variant,n_facilities,n_fit,excess,lo,hi,sig
+25000,REAL,baseline (all),1147,4696,0.863,0.355,1.41,True
+25000,REAL,drop the single biggest contributor,1146,4683,0.77,0.332,1.352,True
+25000,REAL,drop the top 5 contributors,1142,4634,0.422,-0.004,0.949,False
+25000,REAL,drop the top 10 contributors,1137,4571,0.006,-0.447,0.567,False
+25000,REAL,drop facilities seen < 5 years,971,4545,0.747,0.208,1.241,True
+25000,REAL,CA only,957,3685,1.219,0.654,1.958,True
+25000,REAL,WA only,190,1011,-0.396,-1.265,0.637,False
+40000,placebo,baseline (all),1147,2092,0.89,0.309,1.617,True
+40000,placebo,drop the single biggest contributor,1146,2079,0.749,0.171,1.461,True
+40000,placebo,drop the top 5 contributors,1142,2028,0.357,-0.318,1.213,False
+40000,placebo,drop the top 10 contributors,1137,1965,0.03,-0.673,0.748,False
+40000,placebo,drop facilities seen < 5 years,971,2047,0.896,0.316,1.798,True
+40000,placebo,CA only,957,1613,0.841,0.128,1.701,True
+40000,placebo,WA only,190,479,1.039,-0.039,2.369,False

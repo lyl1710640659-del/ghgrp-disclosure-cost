@@ -1,0 +1,18 @@
+window,group,n,start_below,start_mean,move_mean,move_median,gap_above,gap_mean,excess,spec,ci_lo,ci_hi,significant
+1000.0,threshold-bound,1539,0.3983,0.0041,-0.0368,0.0029,0.5198,-0.0327,0.0505,window scan,,,
+1000.0,always-covered,487,0.5072,-0.0003,0.024,0.0076,0.5195,0.0237,0.0179,window scan,,,
+2000.0,threshold-bound,3029,0.3945,0.0077,-0.0473,0.0,0.5243,-0.0396,0.0261,window scan,,,
+2000.0,always-covered,1006,0.504,-0.0012,0.0094,0.0073,0.508,0.0082,0.1638,window scan,,,
+3000.0,threshold-bound,4422,0.3774,0.0138,-0.0543,-0.0001,0.5409,-0.0405,-0.0053,window scan,,,
+3000.0,always-covered,1426,0.5021,-0.0022,0.0279,0.0079,0.5189,0.0257,0.1733,window scan,,,
+5000.0,threshold-bound,7028,0.3485,0.0278,-0.0535,-0.0006,0.5756,-0.0256,-0.0428,window scan,,,
+5000.0,always-covered,2313,0.4855,-0.0014,0.0131,0.0049,0.5201,0.0116,0.1457,window scan,,,
+7500.0,threshold-bound,9824,0.3279,0.0431,-0.0509,-0.0015,0.601,-0.0078,-0.0445,window scan,,,
+7500.0,always-covered,3411,0.4735,-0.0028,0.0197,0.0065,0.5418,0.0169,0.1063,window scan,,,
+10000.0,threshold-bound,12299,0.3142,0.0567,-0.0526,-0.0021,0.6234,0.0041,-0.0422,window scan,,,
+10000.0,always-covered,4422,0.4715,-0.0116,0.012,0.0042,0.5391,0.0004,0.1014,window scan,,,
+,threshold-bound,789,0.4043,,,,0.5133,,0.1232,tight start,-0.1004,0.3989,False
+,always-covered,240,0.5042,,,,0.5792,,0.037,tight start,-0.3889,0.5833,False
+,threshold-bound,7028,0.3485,,,,0.5756,,-0.0428,"+/-5,000, unweighted",-0.131,0.0552,
+,always-covered,2313,0.4855,,,,0.5201,,0.1457,"+/-5,000, unweighted",-0.0421,0.3869,
+,always-covered,2140,0.3578,,,,0.5729,,0.1602,"+/-5,000, REWEIGHTED",-0.0317,0.3759,

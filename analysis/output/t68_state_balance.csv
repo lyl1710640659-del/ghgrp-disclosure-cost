@@ -1,0 +1,5 @@
+covariate,state_mean,national_mean,ND,unbalanced
+ch4_share,0.09,0.072,0.084,False
+n_subparts,1.409,1.489,-0.13,False
+multi_subpart,0.332,0.437,-0.225,False
+log_em,10.927,10.66,0.179,False
